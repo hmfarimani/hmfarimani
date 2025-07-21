@@ -1,18 +1,26 @@
-👋 Hi there! I’m @hmfarimani, an AI and programming enthusiast.
+# 👋 Hi there! I'm @hmfarimani
 
-👀 I'm passionate about Robotics, AI, Reinforcement Learning, Computer Vision, NLP, and Deep Learning.
+I'm an AI and programming enthusiast with a passion for robotics and intelligent systems.
 
-💻 I started as a full-stack web developer, primarily using the .NET ecosystem. Later, I became a robotics enthusiast after building a teleoperation platform for autonomous mobile robots (AMRs).
+## 🔍 Interests
+- 🤖 Robotics, AI, Reinforcement Learning  
+- 🎯 Computer Vision, NLP, and Deep Learning  
+- 🖥️ Formal Verification and Safe Autonomous Systems
 
-🔬 Currently, I’m a Graduate Research Assistant, working on trustworthy AI, formal verification, and safe robotics.
+## 🛠️ My Journey
+- 💻 I began as a **full-stack web developer**, mainly using **.NET** technologies.  
+- 🚙 I became a **robotics enthusiast** after building a **teleoperation platform for Autonomous Mobile Robots (AMRs)**.  
+- 🔬 Now, I’m a **Graduate Research Assistant** on **trustworthy AI**, **safe robotics**, and **formal methods**.  
+- 🌱 Currently exploring **mobile robot navigation**, **trustworthy AI and safe robotics**, combining **formal verification** with **learning-based** methods.
 
-🌱 I’m actively learning and researching mobile robot navigation, trustworthy AI and safe robotics, combining formal verification with learning-based methods.
+## 🤝 Let's Collaborate
+I'm always interested in **multi-disciplinary projects** at the intersection of AI and real-world impact.
 
-🤝 I’m always open to collaborating on multi-disciplinary projects where AI can help solve meaningful, real-world problems.
+## 🌐 More About Me
+Check out my personal website: [hmfarimani.github.io](https://hmfarimani.github.io)
 
-🌐 Learn more about me and my projects at: hmfarimani.github.io
-
-📫 Feel free to reach out via email: hmfarimani@gmail.com
+## 📫 Get in Touch
+Feel free to reach out via email: **hmfarimani@gmail.com**
 <!---
 hmfarimani/hmfarimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
